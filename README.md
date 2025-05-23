@@ -10,7 +10,8 @@ Universidad Don Bosco - Ciclo I 2025
 📄 Manuales del Proyecto
 
 - 📘 [Manual de Usuario (PDF)](MANUAL_DE_USUARIO_HOTEL_GRID_PALACE.pdf)
-- ⚙️ [Manual Técnico (PDF)](MANUAL_TECNICO_DEL_PROYECTO_HOTEL_GRID_PALACE.pdf)
+https://github.com/Wilfredo0399/HOTEL-PROYECTO-FINAL/blob/9eecaceb12337b3d1f94b1f2a5474023302b4d6d/MANUAL%20DE%20USUARIO%20HOTEL%20GRID%20PALACE.pdf
+ - ⚙️ [Manual Técnico (PDF)](MANUAL_TECNICO_DEL_PROYECTO_HOTEL_GRID_PALACE.pdf)
 
 
 🚀 Tecnologías Utilizadas
