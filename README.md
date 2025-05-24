@@ -14,6 +14,9 @@ https://github.com/Wilfredo0399/HOTEL-PROYECTO-FINAL/blob/9eecaceb12337b3d1f94b1
 
  - ⚙️ https://github.com/Wilfredo0399/HOTEL-PROYECTO-FINAL/blob/138bc8f93b4103c08adc041a195c83ab4f56fde9/MANUAL%20TECNICO%20DEL%20PROYECTO%20HOTEL%20GRID%20PALACE.pdf
 
+Tablero Trello
+Este es el tablero de trabajo utilizado para organizar las tareas, reuniones y decisiones del proyecto.
+https://trello.com/invite/b/67d5c71726a96576851184d7/ATTIe658850a7028af8ae95440b1eecfb974D8B5825C/hotel-grid-palace-proyecto-final
 
 🚀 Tecnologías Utilizadas
 
