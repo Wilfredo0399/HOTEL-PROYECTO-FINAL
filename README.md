@@ -17,6 +17,7 @@ https://github.com/Wilfredo0399/HOTEL-PROYECTO-FINAL/blob/9eecaceb12337b3d1f94b1
 Tablero Trello
 Este es el tablero de trabajo utilizado para organizar las tareas, reuniones y decisiones del proyecto.
 https://github.com/Wilfredo0399/HOTEL-PROYECTO-FINAL.git
+
 🚀 Tecnologías Utilizadas
 
 - HTML5
